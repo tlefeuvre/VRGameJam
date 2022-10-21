@@ -1,1 +1,1 @@
-# VRGameJam
+# GameJamVR
